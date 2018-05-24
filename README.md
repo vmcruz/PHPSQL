@@ -1,0 +1,1 @@
+Clase SQL que permite la conexión entre PostgreSQL, MySQL, MSSQL y Oracle en una misma clase. Se usan las clases nativas de PHP para la conexión a base de datos (PGSQL, MySQLi, SQLSRV y OCI respectivamente)
